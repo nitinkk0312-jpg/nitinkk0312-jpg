@@ -41,9 +41,9 @@ B.Tech CSE (Data Science) Student | Java Programmer | DSA Learner with Java | Da
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nitinkk0312-jpg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[](https://github-contributor-stats.vercel.app/api?username=nitinkk0312-jpg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nitinkk0312-jpg&icon=0&color=0)](https://visitcount.itsvg.in)
+[[](https://komarev.com/ghpvc/?username=nitinkk0312-jpg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
