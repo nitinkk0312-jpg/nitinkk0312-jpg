@@ -1,4 +1,3 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00F7FF&width=500&lines=Hi+I'm+Nitin+Kashyap;Python+Developer;Always+Learning)](https://git.io/typing-svg)
 # 💫 About Me:
 B.Tech CSE (Data Science) Student | Java Programmer | DSA Learner with Java | Data Science Enthusiast | Full-Stack Web Developer | MERN Stack Leaner
