@@ -11,7 +11,32 @@ B.Tech CSE (Data Science) Student | Java Programmer | DSA Learner with Java | Da
 ![](https://github-readme-stats.shion.dev/api?username=nitinkk0312-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nitinkk0312-jpg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nitinkk0312-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🏆 Certifications
 
+- 🛡️ **Cyber Threat Management**
+  - **Cisco Networking Academy**
+
+- ☕ **Data Structures Using Java**
+  - **NPTEL**
+
+- 💻 **C Programming Training**
+  - **Certificate of Completion**
+
+- 🤖 **AI Tools & Workshop**
+  - **be10x**
+
+---
+
+## 📚 Learning & Professional Development
+
+- 🚀 **LLM for Young Developers**
+  - INDIAai × Meta × NASSCOM FutureSkills Prime
+
+- 🇮🇳 **My Bharat**
+  - Certificate of Recognition
+  - Quiz Certificate
+
+- 🌍 **MMGEIS**
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
